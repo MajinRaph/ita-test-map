@@ -51,6 +51,7 @@
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
                 }],
+         "tintcolor":"#000000",
          "type":"tilelayer",
          "visible":true,
          "width":46,
